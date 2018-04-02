@@ -13,10 +13,11 @@ eficiente y confiable de archivos
     Hola mundo como estas???
 
 # zonas de git
+```
 1.- Derectorio de trabajo
 2.- Area de preparacion
 3.- Directorio git
-
+```
 # LOREM #
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
