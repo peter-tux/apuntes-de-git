@@ -1,3 +1,6 @@
+# git #
+sistema de control de verion para el manejo 
+eficiente y confiable de archivos   
 ## Hola mundo ##
 
     Hola mundo como estas???
