@@ -8,3 +8,7 @@ Etiqueta anotada. Se guarda en la base de datos de Git como un objeto entero. Ti
 git tag -l "v1.*"
 ```
 Lista las etiquetas que coincidan con el patrón especificado.
+
+
+#git log.md 
+rama master en el archivo git_log.md
