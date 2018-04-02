@@ -11,7 +11,7 @@ eficiente y confiable de archivos
     Hola mundo como estas???
     Hola mundo como estas???
     Hola mundo como estas???
-
+ 
 # zonas de git
 ```
 1.- Derectorio de trabajo
