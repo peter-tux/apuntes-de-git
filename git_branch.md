@@ -10,3 +10,12 @@ Nos muestra las ramas que han sido fusionadas a la rama actual.
 Puedo crear todas las ramas que quiera y/o necesite.
 
 Las ramas nuevas que se crean apuntan al commit actual.
+
+* `gir branch -D [nom_rama]`
+elimina la rama aunque no este fucionada con la rama master
+
+* `git branch --no-merged`
+lista las ramas que no fueron fucionadas a la rama actual
+
+* `git branch --merged`
+lista las ramas fucionadas a la rama actual
